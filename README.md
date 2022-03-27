@@ -7,9 +7,9 @@ The purpose of the analysis is well defined. (5 pt)
 
 ## Results:
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
+A story board with seven data visualizations were created to display the results and are available at [NYC Citi Bikes Dashboard](https://public.tableau.com/app/profile/maureen.hubka/viz/NYCCityBikes_16483439470900/NYCCitiBikeStory?publish=yes)
 
-There is a description of the results for each visualization (7 pt)
+The results were as followed: 
 
 - August 2019 data shows that NYC Citi Bikes had over 2 million trips and most riders were subscribers. 
 
